@@ -8,14 +8,15 @@
 ##### Software
 - [Atom](https://atom.io)
 - [Eclipse](https://www.eclipse.org)
+- [IntelliJ](http://www.jetbrains.com/idea/)
 - [Java SE 8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 - [Slack](https://slack.com)
 - [Xcode](https://developer.apple.com/xcode)
 - [NodeJS] (https://nodejs.org/en/)
 - [Python] (https://sfhacks.github.io/resources/)
-- [Github Desktop] (https://desktop.github.com/)
+- [GitHub Desktop] (https://desktop.github.com/)
 
 ##### Dev Sites
 - [Devpost](http://devpost.com/)
 - [HackerRank](https://www.hackerrank.com/)
-- [Github] (https://www.github.com/)
+- [GitHub] (https://www.github.com/)
